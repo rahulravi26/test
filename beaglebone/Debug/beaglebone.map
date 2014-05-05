@@ -1,0 +1,813 @@
+Archive member included because of file (symbol)
+
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (__register_exitproc)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (exit)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (__libc_fini_array)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (__libc_init_array)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (memset)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                              ./hello.o (puts)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o) (strlen)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o) (atexit)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o) (__sfvwrite_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (_malloc_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (memchr)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (memcpy)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (memmove)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (_realloc_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (__swsetup_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (_fflush_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o) (__sinit)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o) (_free_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (_fwalk)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o) (__smakebuf_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o) (errno)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (__sread)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_write_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_close_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o) (fclose)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_fstat_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o) (_isatty_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_lseek_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o) (_read_r)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o (initialise_monitor_handles)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o) (_exit)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o) (_kill)
+/opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                              /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o) (__errno)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x4               /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+SRAM             0x402f0400         0x0000fc00
+L3OCMC0          0x40300000         0x00010000
+M3SHUMEM         0x44d00000         0x00004000
+M3SHDMEM         0x44d80000         0x00002000
+DDR0             0x80000000         0x40000000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+                0x00018000                STACKSIZE = 0x18000
+                0x00000400                HEAPSIZE = 0x400
+LOAD ./startup_ARMCA8.o
+LOAD ./hello.o
+
+.rsthand        0x80000000       0x70
+                0x80000000                . = ALIGN (0x10000)
+ *(.isr_vector)
+ .isr_vector    0x80000000       0x50 ./startup_ARMCA8.o
+                0x80000000                __isr_vector
+                0x8000004e                DEF_IRQHandler
+ *startup_ARMCA8.o(.text)
+ .text          0x80000050       0x20 ./startup_ARMCA8.o
+                0x80000050                Entry
+                0x80000070                . = ALIGN (0x4)
+
+.text           0x80000070     0x383c
+ *(.text*)
+ .text          0x80000070        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+ .text          0x80000070       0x94 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+ .text          0x80000104      0x12c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+                0x80000104                _mainCRTStartup
+                0x80000104                _start
+                0x80000104                start
+ .text          0x80000230       0x20 ./hello.o
+                0x80000230                main
+ .text          0x80000250        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .text.__register_exitproc
+                0x80000250       0xf4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+                0x80000250                __register_exitproc
+ .text          0x80000344        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .text.exit     0x80000344       0x34 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+                0x80000344                exit
+ .text          0x80000378        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .text.__libc_fini_array
+                0x80000378       0x44 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+                0x80000378                __libc_fini_array
+ .text          0x800003bc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .text          0x800003bc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .text.__libc_init_array
+                0x800003bc       0x88 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+                0x800003bc                __libc_init_array
+ .text          0x80000444        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .text.memset   0x80000444       0xf8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+                0x80000444                memset
+ .text          0x8000053c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .text._puts_r  0x8000053c       0xa4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                0x8000053c                _puts_r
+ .text.puts     0x800005e0       0x14 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                0x800005e0                puts
+ .text          0x800005f4        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .text.strlen   0x800005f4       0x60 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+                0x800005f4                strlen
+ .text          0x80000654        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .text.startup.register_fini
+                0x80000654       0x24 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x80000678      0x17c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+                0x80000678                __call_exitprocs
+ .text          0x800007f4        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .text.atexit   0x800007f4       0x20 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+                0x800007f4                atexit
+ .text          0x80000814        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .text.__sfvwrite_r
+                0x80000814      0x4c4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+                0x80000814                __sfvwrite_r
+ .text          0x80000cd8        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .text._malloc_r
+                0x80000cd8      0x73c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80000cd8                _malloc_r
+ .text          0x80001414        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .text.memchr   0x80001414      0x11c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+                0x80001414                memchr
+ .text          0x80001530        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .text.memcpy   0x80001530       0xf4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+                0x80001530                memcpy
+ .text          0x80001624        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .text.memmove  0x80001624      0x134 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+                0x80001624                memmove
+ .text          0x80001758        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x80001758        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x80001758                __malloc_lock
+ .text.__malloc_unlock
+                0x8000175c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+                0x8000175c                __malloc_unlock
+ .text          0x80001760        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .text._realloc_r
+                0x80001760      0x574 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+                0x80001760                _realloc_r
+ .text          0x80001cd4        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x80001cd4       0x40 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+                0x80001cd4                _sbrk_r
+ .text          0x80001d14        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .text.__swsetup_r
+                0x80001d14      0x138 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+                0x80001d14                __swsetup_r
+ .text          0x80001e4c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .text._fflush_r
+                0x80001e4c      0x250 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x80001e4c                _fflush_r
+ .text.fflush   0x8000209c       0x40 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+                0x8000209c                fflush
+ .text          0x800020dc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_lock
+                0x800020dc        0x8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__fp_unlock
+                0x800020e4        0x8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text._cleanup_r
+                0x800020ec       0x18 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x800020ec                _cleanup_r
+ .text.std.isra.0
+                0x80002104       0x7c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .text.__sfmoreglue
+                0x80002180       0x48 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002180                __sfmoreglue
+ .text._cleanup
+                0x800021c8       0x10 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x800021c8                _cleanup
+ .text.__sinit  0x800021d8       0x78 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x800021d8                __sinit
+ .text.__sfp    0x80002250       0xf8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002250                __sfp
+ .text.__sfp_lock_acquire
+                0x80002348        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002348                __sfp_lock_acquire
+ .text.__sfp_lock_release
+                0x8000234c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x8000234c                __sfp_lock_release
+ .text.__sinit_lock_acquire
+                0x80002350        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002350                __sinit_lock_acquire
+ .text.__sinit_lock_release
+                0x80002354        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002354                __sinit_lock_release
+ .text.__fp_lock_all
+                0x80002358       0x24 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x80002358                __fp_lock_all
+ .text.__fp_unlock_all
+                0x8000237c       0x24 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+                0x8000237c                __fp_unlock_all
+ .text          0x800023a0        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .text._malloc_trim_r
+                0x800023a0       0xfc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x800023a0                _malloc_trim_r
+ .text._free_r  0x8000249c      0x26c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+                0x8000249c                _free_r
+ .text          0x80002708        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .text._fwalk   0x80002708       0x88 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x80002708                _fwalk
+ .text._fwalk_reent
+                0x80002790       0x8c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+                0x80002790                _fwalk_reent
+ .text          0x8000281c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .text.__smakebuf_r
+                0x8000281c      0x15c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+                0x8000281c                __smakebuf_r
+ .text          0x80002978        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x80002978       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x80002978                cleanup_glue
+ .text._reclaim_reent
+                0x800029a4       0xfc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x800029a4                _reclaim_reent
+ .text._wrapup_reent
+                0x80002aa0       0x74 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x80002aa0                _wrapup_reent
+ .text          0x80002b14        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .text.__sread  0x80002b14       0x34 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x80002b14                __sread
+ .text.__seofread
+                0x80002b48        0x8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x80002b48                __seofread
+ .text.__swrite
+                0x80002b50       0x58 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x80002b50                __swrite
+ .text.__sseek  0x80002ba8       0x34 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x80002ba8                __sseek
+ .text.__sclose
+                0x80002bdc       0x14 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+                0x80002bdc                __sclose
+ .text          0x80002bf0        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .text._write_r
+                0x80002bf0       0x44 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+                0x80002bf0                _write_r
+ .text          0x80002c34        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .text._close_r
+                0x80002c34       0x3c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+                0x80002c34                _close_r
+ .text          0x80002c70        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .text._fclose_r
+                0x80002c70       0xf8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x80002c70                _fclose_r
+ .text.fclose   0x80002d68       0x14 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+                0x80002d68                fclose
+ .text          0x80002d7c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .text._fstat_r
+                0x80002d7c       0x40 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+                0x80002d7c                _fstat_r
+ .text          0x80002dbc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .text._isatty_r
+                0x80002dbc       0x3c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+                0x80002dbc                _isatty_r
+ .text          0x80002df8        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .text._lseek_r
+                0x80002df8       0x44 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+                0x80002df8                _lseek_r
+ .text          0x80002e3c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .text._read_r  0x80002e3c       0x44 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+                0x80002e3c                _read_r
+ .text          0x80002e80        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.error    0x80002e80       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.findslot
+                0x80002eb8       0x68 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.checkerror
+                0x80002f20        0xc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .text.initialise_monitor_handles
+                0x80002f2c       0xf8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80002f2c                initialise_monitor_handles
+ .text._swiread
+                0x80003024       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003024                _swiread
+ .text._read    0x8000305c       0x58 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000305c                _read
+ .text._swilseek
+                0x800030b4       0xe8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800030b4                _swilseek
+ .text._lseek   0x8000319c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000319c                _lseek
+ .text._swiwrite
+                0x800031a0       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800031a0                _swiwrite
+ .text._write   0x800031d8       0x78 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800031d8                _write
+ .text._swiclose
+                0x80003250       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003250                _swiclose
+ .text._close   0x80003288       0x78 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003288                _close
+ .text._getpid  0x80003300        0x8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003300                _getpid
+ .text._sbrk    0x80003308       0x54 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003308                _sbrk
+ .text._swistat
+                0x8000335c       0x6c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000335c                _swistat
+ .text._fstat   0x800033c8       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800033c8                _fstat
+ .text._stat    0x800033f4       0x68 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800033f4                _stat
+ .text._swiopen
+                0x8000345c      0x114 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000345c                _swiopen
+ .text._open    0x80003570       0x1c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003570                _open
+ .text._link    0x8000358c       0x1c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000358c                _link
+ .text._unlink  0x800035a8       0x50 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800035a8                _unlink
+ .text._gettimeofday
+                0x800035f8       0x4c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800035f8                _gettimeofday
+ .text._clock   0x80003644       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003644                _clock
+ .text._times   0x8000366c       0x40 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000366c                _times
+ .text._isatty  0x800036ac       0x74 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x800036ac                _isatty
+ .text._system  0x80003720       0x7c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x80003720                _system
+ .text._rename  0x8000379c       0x60 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+                0x8000379c                _rename
+ .text          0x800037fc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .text._exit    0x800037fc       0x14 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+                0x800037fc                _exit
+ .text          0x80003810        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .text._kill    0x80003810       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+                0x80003810                _kill
+ .text          0x80003848        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .text.__errno  0x80003848       0x10 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+                0x80003848                __errno
+ .text          0x80003858        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+ .text          0x80003858        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+ *(.init)
+ .init          0x80003858        0xc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+                0x80003858                _init
+ .init          0x80003864        0xc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+ *(.fini)
+ .fini          0x80003870        0xc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+                0x80003870                _fini
+ .fini          0x8000387c        0xc /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x80003888       0x10 ./hello.o
+ .rodata.str1.4
+                0x80003898        0x2 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x8000389a        0x2 00
+ .rodata._global_impure_ptr
+                0x8000389c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x8000389c                _global_impure_ptr
+ .rodata.str1.4
+                0x800038a0        0x2 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+                                  0x4 (size before relaxing)
+ *fill*         0x800038a2        0x2 00
+ .rodata.str1.4
+                0x800038a4        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ *(.eh_frame*)
+ .eh_frame      0x800038a8        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+ .eh_frame      0x800038a8        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+
+.glue_7         0x800038ac        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x800038ac        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x800038ac        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x800038ac        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x800038ac        0x0
+ .iplt          0x00000000        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+
+.ARM.extab      0x800038ac        0x0
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x800038ac        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+                0x800038ac                __exidx_start = .
+
+.ARM.exidx      0x800038ac        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x800038ac        0x8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+                0x800038b4                __exidx_end = .
+
+.rel.dyn        0x800038b4        0x0
+ .rel.iplt      0x00000000        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+
+.data           0x800038b8      0x960
+                0x800038b8                . = ALIGN (0x4)
+                0x800038b8                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data          0x800038b8        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+ .data          0x800038b8        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+                0x800038b8                __dso_handle
+ .data          0x800038bc      0x110 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+                0x800038c4                __stack_base__
+ .data          0x800039cc        0x0 ./startup_ARMCA8.o
+ .data          0x800039cc        0x0 ./hello.o
+ .data          0x800039cc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .data          0x800039cc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .data          0x800039cc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .data          0x800039cc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ *fill*         0x800039cc        0x4 00
+ .data.impure_data
+                0x800039d0      0x428 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x80003df8        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+                0x80003df8                _impure_ptr
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .data          0x80003dfc        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .data.__malloc_av_
+                0x80003dfc      0x408 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80003dfc                __malloc_av_
+ .data.__malloc_trim_threshold
+                0x80004204        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80004204                __malloc_trim_threshold
+ .data.__malloc_sbrk_base
+                0x80004208        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80004208                __malloc_sbrk_base
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+ .data          0x8000420c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+                0x8000420c                . = ALIGN (0x4)
+                0x8000420c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array)
+                0x8000420c                PROVIDE (__preinit_array_end, .)
+                0x8000420c                . = ALIGN (0x4)
+                0x8000420c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x8000420c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x80004210        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+                0x80004214                PROVIDE (__init_array_end, .)
+                0x80004214                . = ALIGN (0x4)
+                0x80004214                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x80004214        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+                0x80004218                PROVIDE (__fini_array_end, .)
+                0x80004218                . = ALIGN (0x4)
+                0x80004218                __data_end__ = .
+
+.jcr            0x80004218        0x4
+ .jcr           0x80004218        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+ .jcr           0x80004218        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+
+.igot.plt       0x8000421c        0x0
+ .igot.plt      0x00000000        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+
+.bss            0x8000421c      0x104
+                0x8000421c                . = ALIGN (0x4)
+                0x8000421c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x8000421c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+ .bss           0x8000421c       0x1c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+ .bss           0x80004238        0x0 ./startup_ARMCA8.o
+ .bss           0x80004238        0x0 ./hello.o
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .bss           0x80004238        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .bss.__malloc_max_total_mem
+                0x80004238        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80004238                __malloc_max_total_mem
+ .bss.__malloc_max_sbrked_mem
+                0x8000423c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x8000423c                __malloc_max_sbrked_mem
+ .bss.__malloc_top_pad
+                0x80004240        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80004240                __malloc_top_pad
+ .bss.__malloc_current_mallinfo
+                0x80004244       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+                0x80004244                __malloc_current_mallinfo
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .bss           0x8000426c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdout
+                0x8000426c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stdin
+                0x80004270        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.monitor_stderr
+                0x80004274        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.heap_end.5738
+                0x80004278        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss.openfiles
+                0x8000427c       0xa0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .bss           0x8000431c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .bss           0x8000431c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .bss           0x8000431c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .bss           0x8000431c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+ .bss           0x8000431c        0x0 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+ *(COMMON)
+ COMMON         0x8000431c        0x4 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+                0x8000431c                errno
+                0x80004320                __bss_end__ = .
+
+.heap           0x80004320      0x400
+ FILL mask 0xdeadbeef
+                0x80004320                . = ALIGN (0x4)
+                0x80004320                __end__ = .
+                0x80004320                end = __end__
+                0x80004320                __HeapBase = __end__
+ *(.heap*)
+ .heap          0x80004320        0x0 ./startup_ARMCA8.o
+                0x80004720                . = (. + HEAPSIZE)
+ *fill*         0x80004320      0x400 deadbeef
+                0x80004720                __HeapLimit = .
+
+.stack          0x80004720    0x18000
+ FILL mask 0xbad0bad0
+                0x80004720                . = ALIGN (0x4)
+                0x80004720                __StackLimit = .
+ *(.stack*)
+ .stack         0x80004720        0x0 ./startup_ARMCA8.o
+                0x8001c720                . = (. + STACKSIZE)
+ *fill*         0x80004720    0x18000 bad0bad0
+                0x8001c720                __StackTop = .
+                0x8001c720                __StackBase = .
+                0x8001c720                PROVIDE (__stack, __StackTop)
+START GROUP
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/libgcc.a
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a
+END GROUP
+START GROUP
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/libgcc.a
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libg.a
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a
+END GROUP
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+LOAD /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+OUTPUT(beaglebone.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2d
+ .ARM.attributes
+                0x00000000       0x16 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crti.o
+ .ARM.attributes
+                0x00000016       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtbegin.o
+ .ARM.attributes
+                0x00000046       0x14 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/rdimon-crt0.o
+ .ARM.attributes
+                0x0000005a       0x1f ./startup_ARMCA8.o
+ .ARM.attributes
+                0x00000079       0x37 ./hello.o
+ .ARM.attributes
+                0x000000b0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000000e0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000110       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000140       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000170       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001a0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000001d0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x00000200       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000230       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000260       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000290       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x000002c0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x000002f0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000320       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x00000350       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000380       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x000003b0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000003e0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000410       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x00000440       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x00000470       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x000004a0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000004d0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x00000500       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x00000530       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000560       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000590       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x000005c0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x000005f0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000620       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x00000650       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x00000680       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x000006b0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x000006e0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .ARM.attributes
+                0x00000710       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .ARM.attributes
+                0x00000740       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .ARM.attributes
+                0x00000770       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000007a0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtend.o
+ .ARM.attributes
+                0x000007d0       0x18 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/crtn.o
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./hello.o
+                                 0x71 (size before relaxing)
+
+.debug_line     0x00000000       0xac
+ .debug_line    0x00000000       0x71 ./startup_ARMCA8.o
+ .debug_line    0x00000071       0x3b ./hello.o
+
+.debug_info     0x00000000       0xee
+ .debug_info    0x00000000       0x5b ./startup_ARMCA8.o
+ .debug_info    0x0000005b       0x93 ./hello.o
+
+.debug_abbrev   0x00000000       0x53
+ .debug_abbrev  0x00000000       0x12 ./startup_ARMCA8.o
+ .debug_abbrev  0x00000012       0x41 ./hello.o
+
+.debug_aranges  0x00000000       0x48
+ .debug_aranges
+                0x00000000       0x28 ./startup_ARMCA8.o
+ .debug_aranges
+                0x00000028       0x20 ./hello.o
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ./startup_ARMCA8.o
+
+.debug_loc      0x00000000       0x2c
+ .debug_loc     0x00000000       0x2c ./hello.o
+
+.debug_str      0x00000000       0xd5
+ .debug_str     0x00000000       0xd5 ./hello.o
+                                0x10e (size before relaxing)
+
+.debug_frame    0x00000000      0xb80
+ .debug_frame   0x00000000       0x2c ./hello.o
+ .debug_frame   0x0000002c       0x34 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000060       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000088       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fini.o)
+ .debug_frame   0x000000b4       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-init.o)
+ .debug_frame   0x000000e0       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000108       0x3c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-puts.o)
+ .debug_frame   0x00000144       0x20 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000164       0x50 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000001b4       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-atexit.o)
+ .debug_frame   0x000001dc       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fvwrite.o)
+ .debug_frame   0x00000214       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000024c       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memchr.o)
+ .debug_frame   0x00000278       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memcpy.o)
+ .debug_frame   0x000002a4       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-memmove.o)
+ .debug_frame   0x000002d0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000300       0x38 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000338       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000364       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-wsetup.o)
+ .debug_frame   0x00000390       0x48 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fflush.o)
+ .debug_frame   0x000003d8      0x134 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-findfp.o)
+ .debug_frame   0x0000050c       0x50 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-freer.o)
+ .debug_frame   0x0000055c       0x54 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fwalk.o)
+ .debug_frame   0x000005b0       0x30 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-makebuf.o)
+ .debug_frame   0x000005e0       0x68 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000648       0x88 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-stdio.o)
+ .debug_frame   0x000006d0       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-writer.o)
+ .debug_frame   0x000006fc       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-closer.o)
+ .debug_frame   0x00000728       0x3c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fclose.o)
+ .debug_frame   0x00000764       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-fstatr.o)
+ .debug_frame   0x00000790       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-isattyr.o)
+ .debug_frame   0x000007bc       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-lseekr.o)
+ .debug_frame   0x000007e8       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-readr.o)
+ .debug_frame   0x00000814      0x2f8 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-syscalls.o)
+ .debug_frame   0x00000b0c       0x28 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_exit.o)
+ .debug_frame   0x00000b34       0x2c /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/librdimon.a(rdimon-_kill.o)
+ .debug_frame   0x00000b60       0x20 /opt/ti/ccsv6/tools/compiler/gcc-arm-none-eabi-4_7-2013q3/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/libc.a(lib_a-errno.o)
